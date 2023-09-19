@@ -16,6 +16,5 @@
 
   
 
-  ![Snake animation](https://github.com/elitonr65/elitonr65/blob/output/github-contribution-grid-snake.svg)
-
+![snake gif](https://github.com/elitonr65/elitonr65/blob/output/github-contribution-grid-snake.svg)
 </div>
