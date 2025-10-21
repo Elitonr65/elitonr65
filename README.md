@@ -4,7 +4,6 @@
 
 # 👋 Olá! Bem-vindo(a) ao meu perfil GitHub
 
-![banner](https://img.shields.io/badge/Boas-vindas-Bem%20vindo(a)!-brightgreen?style=for-the-badge)
 
 ---
 
