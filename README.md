@@ -91,25 +91,6 @@ Atuo no desenvolvimento de aplicações Web e Mobile, buscando constantemente ap
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elitonr65&layout=compact&theme=tokyonight"/>
 
-</div>
-
----
-
-## 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Elitonr65&theme=tokyonight" />
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Elitonr65&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=15" />
-</div>
 
 ---
 
