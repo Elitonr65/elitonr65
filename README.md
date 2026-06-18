@@ -99,8 +99,7 @@ Atuo no desenvolvimento de aplicações Web e Mobile, buscando constantemente ap
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Elitonr65&theme=tokyonight" />
-
+<img src="https://streak-stats.demolab.com?user=Elitonr65&theme=tokyonight" />
 </div>
 
 ---
@@ -109,8 +108,7 @@ Atuo no desenvolvimento de aplicações Web e Mobile, buscando constantemente ap
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Elitonr65&theme=tokyonight&no-frame=true&row=1&column=7" />
-
+<img src="https://github-profile-trophy.vercel.app/?username=Elitonr65&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=15" />
 </div>
 
 ---
