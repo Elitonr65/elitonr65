@@ -1,84 +1,81 @@
-<p align="center">
-  <img src="https://github.com/elitonr65/elitonr65/blob/main/banner-eliton.png" width="100%" alt="Banner Eliton Rodrigues">
-</p>
-
 <div align="center">
 
 # 👋 Olá, eu sou Eliton
 
 ### Software Developer | Mobile Developer | Web Developer
 
-Sou apaixonado por tecnologia e desenvolvimento de software, focado na criação de soluções digitais modernas, eficientes e escaláveis.
-
-Atualmente atuo no desenvolvimento de aplicações Web e Mobile, buscando constantemente aprimorar minhas habilidades técnicas e acompanhar as melhores práticas do mercado.
+Transformando ideias em soluções digitais através da tecnologia.
 
 <p>
-<img src="https://komarev.com/ghpvc/?username=Elitonr65&label=Visualizações&color=0e75b6&style=flat" alt="views"/>
+  <img src="https://komarev.com/ghpvc/?username=Elitonr65&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 </div>
 
 ---
 
-# 🚀 Sobre Mim
+## 🚀 Sobre Mim
 
-* 💻 Desenvolvedor de Software
-* 📱 Desenvolvimento Mobile com Flutter
-* 🌐 Desenvolvimento Web Moderno
+Sou desenvolvedor apaixonado por tecnologia, desenvolvimento de software e criação de soluções digitais.
+
+Atuo no desenvolvimento de aplicações Web e Mobile, buscando constantemente aprimorar minhas habilidades técnicas e acompanhar as melhores práticas do mercado.
+
+* 💻 Desenvolvimento de Software
+* 📱 Desenvolvimento Mobile
+* 🌐 Desenvolvimento Web
 * ☁️ Integração com serviços em nuvem
-* 🔗 Consumo e criação de APIs REST
-* 🗄️ Modelagem e gerenciamento de bancos de dados
-* 🚀 Deploy e publicação de aplicações
-* 📚 Aprendizado contínuo e evolução profissional
-* 🌎 Interesse em projetos nacionais e internacionais
+* 🔗 APIs REST
+* 🗄️ Bancos de Dados
+* 🚀 Deploy de aplicações
+* 📚 Aprendizado contínuo
 
 ---
 
-# 🛠️ Tecnologias e Ferramentas
+## 🛠️ Tecnologias e Ferramentas
 
-## Linguagens
+### Linguagens
 
 <p>
 <img src="https://skillicons.dev/icons?i=dart,javascript,typescript" />
 </p>
 
-## Desenvolvimento Mobile
+### Desenvolvimento Mobile
 
 <p>
 <img src="https://skillicons.dev/icons?i=flutter" />
 </p>
 
-## Desenvolvimento Frontend
+### Frontend
 
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,react,nextjs" />
 </p>
 
-## Desenvolvimento Backend
+### Backend
 
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs" />
 </p>
 
-## Banco de Dados
+### Banco de Dados
 
 <p>
 <img src="https://skillicons.dev/icons?i=postgres,firebase,supabase" />
 </p>
 
-## DevOps & Cloud
+### DevOps & Cloud
 
 <p>
 <img src="https://skillicons.dev/icons?i=docker,vercel" />
 </p>
 
-## Ferramentas
+### Ferramentas
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
-## Sistemas Operacionais
+### Sistemas Operacionais
 
 <p>
 <img src="https://skillicons.dev/icons?i=linux,windows" />
@@ -86,7 +83,7 @@ Atualmente atuo no desenvolvimento de aplicações Web e Mobile, buscando consta
 
 ---
 
-# 📈 Estatísticas GitHub
+## 📊 Estatísticas GitHub
 
 <div align="center">
 
@@ -98,7 +95,7 @@ Atualmente atuo no desenvolvimento de aplicações Web e Mobile, buscando consta
 
 ---
 
-# 🔥 Sequência de Contribuições
+## 🔥 GitHub Streak
 
 <div align="center">
 
@@ -108,7 +105,17 @@ Atualmente atuo no desenvolvimento de aplicações Web e Mobile, buscando consta
 
 ---
 
-# 📊 Gráfico de Atividades
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Elitonr65&theme=tokyonight&no-frame=true&row=1&column=7" />
+
+</div>
+
+---
+
+## 📈 Activity Graph
 
 <div align="center">
 
@@ -118,7 +125,17 @@ Atualmente atuo no desenvolvimento de aplicações Web e Mobile, buscando consta
 
 ---
 
-# 🎯 Áreas de Interesse
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Elitonr65/Elitonr65/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+
+</div>
+
+---
+
+## 🎯 Áreas de Interesse
 
 * Desenvolvimento Mobile
 * Desenvolvimento Web
@@ -127,15 +144,15 @@ Atualmente atuo no desenvolvimento de aplicações Web e Mobile, buscando consta
 * APIs e Integrações
 * Cloud Computing
 * Banco de Dados
-* Automação de Processos
+* DevOps
+* Automação
 * SaaS
 * Inteligência Artificial
-* Experiência do Usuário (UX)
-* Escalabilidade de Sistemas
+* UX/UI
 
 ---
 
-# 📚 Atualmente Estudando
+## 📚 Atualmente Estudando
 
 * Node.js
 * React
@@ -144,35 +161,35 @@ Atualmente atuo no desenvolvimento de aplicações Web e Mobile, buscando consta
 * Docker
 * PostgreSQL
 * Arquitetura de Software
-* Boas Práticas de Desenvolvimento
+* Clean Code
 * DevOps
 
 ---
 
-# 🏆 Objetivos Profissionais
+## 🎯 Objetivos
 
-* Desenvolver soluções escaláveis e de alta qualidade
-* Participar de projetos inovadores
-* Aprimorar habilidades Full Stack
-* Contribuir para projetos open source
-* Expandir experiência internacional na área de tecnologia
-* Evoluir continuamente como desenvolvedor
+* Construir aplicações escaláveis
+* Evoluir como desenvolvedor Full Stack
+* Participar de projetos de impacto
+* Contribuir para projetos Open Source
+* Trabalhar em projetos internacionais
+* Aprimorar continuamente minhas habilidades técnicas
 
 ---
 
-# 📫 Contato
+## 📫 Contato
 
-📧 **Email:** [elitonr65@gmail.com](mailto:elitonr65@gmail.com)
+📧 Email: **[elitonr65@gmail.com](mailto:elitonr65@gmail.com)**
 
-🐙 **GitHub:** https://github.com/Elitonr65
+🐙 GitHub: **https://github.com/Elitonr65**
 
 ---
 
 <div align="center">
 
-### 💡 "Tecnologia é a ferramenta. Resolver problemas é o objetivo."
+### 💡 "A tecnologia move o mundo, mas são as pessoas que dão propósito a ela."
 
-⭐ Obrigado por visitar meu perfil!
+⭐ Obrigado pela visita ao meu perfil!
 
 </div>
 
